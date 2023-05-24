@@ -22,8 +22,7 @@ $(function () {
   // TODO: Add code to display the current date in the header of the page.
 });
 
-// display current day (maybe time as well)
-
+// display current day 
 // create time blocks
 
 // save data to local storage
