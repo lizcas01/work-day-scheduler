@@ -6,7 +6,7 @@ body {
 
 textarea {
   background: transparent;
-  border: none;
+  border-color: #000000;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
@@ -19,6 +19,7 @@ textarea {
 
 .time-block {
   border-radius: 15px;
+  border-color: #000000;
 }
 
 .row {
@@ -28,7 +29,7 @@ textarea {
 .hour {
   background-color: #eeeeee;
   color: #000000;
-  border-top: 1px dashed #000000;
+  border-top: solid #000000;
 }
 
 .past {
@@ -51,6 +52,7 @@ textarea {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #eeeeee;
+  border-color: #000000;
   color: black;
 }
 
