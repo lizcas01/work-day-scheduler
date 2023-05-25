@@ -1,0 +1,62 @@
+body {
+  background-color: #e4e4dc;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+textarea {
+  background: transparent;
+  border-color: #000000;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  border-radius: 15px;
+  border-color: #000000;
+}
+
+.row {
+  border-top: 1px solid #eeeeee;
+}
+
+.hour {
+  background-color: #eeeeee;
+  color: #000000;
+  border-top: solid #000000;
+}
+
+.past {
+  background-color: #cedfdf;
+  color: white;
+}
+
+.present {
+  background-color: #a9c3b6;
+  color: white;
+}
+
+.future {
+  background-color: #91ac9a;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #eeeeee;
+  border-color: #000000;
+  color: black;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
